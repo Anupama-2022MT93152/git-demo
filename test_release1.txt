@@ -1,0 +1,1 @@
+This is text file for release version v1.0.0
